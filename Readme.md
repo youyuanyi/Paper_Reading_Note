@@ -42,10 +42,22 @@
 
 ##### Lp
 
-FGSM、I-FGSM、DeepFool、DAG、PGD、CW
+FGSM、I-FGSM、DeepFool、DAG、PGD、CW、AutoAttack、One-shot
 
 ##### Patch
 
-
+Adversarial Patch、DPATH、Indirect Local Attacks
 
 #### 黑盒攻击
+
+##### 迁移
+
+MI-FGSM
+
+##### score-based-query
+
+One Pixel、Adv-watermark
+
+##### decision-based-query
+
+Boundary Attack、Optimization Attack
